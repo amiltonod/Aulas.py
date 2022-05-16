@@ -1,0 +1,7 @@
+m = float(input('Digite o valor em metros a ser convertido: '))
+print('O valor em quilômetros é {}'.format(m * 0.001))
+print('O valor em hectômetros é {}'.format(m * 0.01))
+print('O valor em decâmetros é {}'.format(m * 0.1))
+print('O valor em decímetros é {}'.format(m * 10))
+print('O valor em centimetros é {}'.format(m * 100))
+print('O valor em mílimetros é {}'.format(m * 1000))
